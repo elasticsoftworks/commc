@@ -4,9 +4,9 @@
 
 ## Overview
 
-*COMMON-C* is a collection of Post-FOSS C libraries providing foundational low-level tools for software and game development. The project maintains strict **C89** compliance for maximum compatibility.
+*COMMON-C* is a collection of C libraries providing foundational low-level tools for software and game development. The project maintains strict **C89** compliance for maximum compatibility.
 
-*COMMON-C* is a collection of open source functions - both ported from existing projects and newly developed - reorganized into a unified framework. While the code is aggregated in one accessible location for convenience, the project maintains no central authority over its use, modification, or redistribution."
+*COMMON-C* is a collection of open source functions - both ported from existing projects and newly developed - reorganized into a unified framework.
 
 ## Project Scope
 
@@ -105,10 +105,6 @@ All libraries adhere to:
 Libraries can be integrated individually or as a complete suite. Each component maintains its own documentation and examples within its respective directory.
 
 The modular design allows developers to include only needed functionality without carrying unnecessary overhead.
-
-## Resources
-
-Additional documentation, tutorials, and examples can be found archived at [LibMephisto](http://71.131.94.115/mediawiki/).
 
 ## Licensing
 
