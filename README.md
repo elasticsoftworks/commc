@@ -4,9 +4,7 @@
 
 ## Overview
 
-*COMMON-C* is a collection of C libraries providing foundational low-level tools for software and game development. The project maintains strict **C89** compliance for maximum compatibility.
-
-*COMMON-C* is a collection of open source functions - both ported from existing projects and newly developed - reorganized into a unified framework.
+*COMMON-C* is a collection of C libraries providing foundational low-level tools for software and game development.
 
 ## Project Scope
 
@@ -90,21 +88,6 @@ COMMON-C encompasses (at present time):
   - **Input handling**
     - **Keyboard**: capture key codes and state transitions (down/up) and optionally text input with Unicode composition. Include timestamps and repeat handling.
     - **Mouse**: capture pointer coordinates, button states, wheel deltas, and relative motion. Provide event-driven and polling interfaces, and map raw device coordinates to window/screen coordinates.
-
-## Development
-
-All libraries adhere to:
-
-- C89/ANSI C standard compliance
-- C-FORM code formatting rules
-- Zero external dependencies
-- Cross-platform compatibility focus
-
-## Usage
-
-Libraries can be integrated individually or as a complete suite. Each component maintains its own documentation and examples within its respective directory.
-
-The modular design allows developers to include only needed functionality without carrying unnecessary overhead.
 
 ## Licensing
 
